@@ -4,7 +4,7 @@ const categories = [
   { id: 'neuroscience', name: 'Neuroscience', icon: '🧠', color: '#1f3a70' },
   { id: 'psychology', name: 'Psychology', icon: '🔍', color: '#2d5016' },
   { id: 'math', name: 'Math', icon: '∑', color: '#1f3a70' },
-  { id: 'physics', name: 'Physics', icon: '⚛️', color: '#2d5016' },
+  { id: 'physics', name: 'Physics', image: 'Captura de pantalla 2026-04-18 184545.png', color: '#2d5016' },
   { id: 'geography', name: 'Geography', icon: '🌍', color: '#1f3a70' },
   { id: 'economics', name: 'Economics', icon: '📊', color: '#2d5016' },
   { id: 'biology', name: 'Biology', icon: '🧬', color: '#1f3a70' },
